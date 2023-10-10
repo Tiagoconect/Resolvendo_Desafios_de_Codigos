@@ -1,2 +1,2 @@
-# Resolvendo_Desafios_de_Codigos
+# Resolvendo Desafios de Códigos e Algoritmos
 Aréa de resolução de dasafios de códigos e algoritmos...
